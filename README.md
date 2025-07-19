@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Fazil!<br><br>🖥️ Java Full Stack Developer specializing in building end-to-end web applications with expertise in Java, Spring Framework, and modern front-end technologies.<br><br>💼 Open to collaborations and passionate about solving challenges through code. Let's connect and build something awesome together!
+👋 Hi, I'm Fazil!<br><br>🖥️ Full Stack Developer || Flutter Developer specializing in building end-to-end web applications with expertise in Java, Spring Framework, and modern front-end technologies.<br><br>💼 Open to collaborations and passionate about solving challenges through code. Let's connect and build something awesome together!
 
 
 # 💻 Tech Stack:
